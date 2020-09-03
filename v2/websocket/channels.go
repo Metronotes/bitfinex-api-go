@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/convert"
-	"github.com/bitfinexcom/bitfinex-api-go/v2"
+	"github.com/openware/bitfinex-api-go/pkg/convert"
+	"github.com/openware/bitfinex-api-go/v2"
 )
 
 func (c *Client) handleChannel(socketId SocketId, msg []byte) error {

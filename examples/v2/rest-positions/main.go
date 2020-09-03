@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/bitfinexcom/bitfinex-api-go/v2"
-	"github.com/bitfinexcom/bitfinex-api-go/v2/rest"
+	"github.com/openware/bitfinex-api-go/v2"
+	"github.com/openware/bitfinex-api-go/v2/rest"
 	"log"
 	"os"
 )

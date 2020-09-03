@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/pulse"
-	"github.com/bitfinexcom/bitfinex-api-go/v2/rest"
+	"github.com/openware/bitfinex-api-go/pkg/models/pulse"
+	"github.com/openware/bitfinex-api-go/v2/rest"
 	"github.com/davecgh/go-spew/spew"
 )
 

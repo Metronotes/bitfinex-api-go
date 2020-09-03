@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/invoice"
-	"github.com/bitfinexcom/bitfinex-api-go/v2"
+	"github.com/openware/bitfinex-api-go/pkg/models/invoice"
+	"github.com/openware/bitfinex-api-go/v2"
 )
 
 // InvoiceService manages Invoice endpoint

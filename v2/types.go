@@ -8,7 +8,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/convert"
+	"github.com/openware/bitfinex-api-go/pkg/convert"
 )
 
 // Prefixes for available pairs

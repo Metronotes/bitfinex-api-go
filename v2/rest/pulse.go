@@ -7,10 +7,10 @@ import (
 	"path"
 	"strconv"
 
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/convert"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/pulse"
-	"github.com/bitfinexcom/bitfinex-api-go/pkg/models/pulseprofile"
-	"github.com/bitfinexcom/bitfinex-api-go/v2"
+	"github.com/openware/bitfinex-api-go/pkg/convert"
+	"github.com/openware/bitfinex-api-go/pkg/models/pulse"
+	"github.com/openware/bitfinex-api-go/pkg/models/pulseprofile"
+	"github.com/openware/bitfinex-api-go/v2"
 )
 
 type PulseService struct {

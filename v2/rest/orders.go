@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"path"
 
-	"github.com/bitfinexcom/bitfinex-api-go/v2"
+	"github.com/openware/bitfinex-api-go/v2"
 )
 
 // OrderService manages data flow for the Order API endpoint
