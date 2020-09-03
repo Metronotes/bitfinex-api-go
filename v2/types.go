@@ -695,7 +695,7 @@ func NewTradeExecutionUpdateFromRaw(raw []interface{}) (o *TradeExecutionUpdate,
 		}
 		return
 	}
-	if len(raw) == 11 {
+	if len(raw) >= 11 {
 		o = &TradeExecutionUpdate{
 			ID:          convert.I64ValOrZero(raw[0]),
 			Pair:        convert.SValOrEmpty(raw[1]),
